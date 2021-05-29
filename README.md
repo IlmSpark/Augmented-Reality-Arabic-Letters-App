@@ -14,7 +14,7 @@ Installation Method:
 
 *Only for Android*
 
-1. Please download the 'Augmented Reality Arabic Letters' .apk file onto your android device.
+1. Please download the 'Augmented Reality Arabic Letters' .rar file. Extract the .apk and download it onto your android device.
 2. The app is compatible with most android phones. Please see this link to see if your phone is compatible: https://developers.google.com/ar/devices
 3. When trying to install on your phone, it will ask you to enable installation from an unknown source. Allow this and finish the installation.
 4. Enjoy exploring the app.
